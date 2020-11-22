@@ -1,1 +1,1 @@
-# Django
+# A simple Django application
